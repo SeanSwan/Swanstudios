@@ -1,0 +1,23 @@
+@import 'NavBar';
+@import 'variables';
+@import 'Home';
+@import 'About';
+@import 'Features';
+@import 'FeaturesBox';
+@import 'HomePackage';
+@import 'HomePackageButton';
+@import 'Animations';
+@import 'Stories';
+@import 'Book';
+@import 'Footer';
+@import 'PopUp';
+@import 'Navagation';
+@import 'CardSection';
+@import 'PackagesPage';
+
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; // best practice set box sizing: inherit to all elements
+}
